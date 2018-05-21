@@ -4,16 +4,16 @@
 
 #### PREREQUISITES
 This project assumes you have the following installed:
-*Visual Studio (VS 2012 was used here) 
-*.NET Framework
-*IIS
+- Visual Studio (VS 2012 was used here) 
+- .NET Framework
+- IIS
 
 #### OVERVIEW
-*The software solution resides in and can be launched from TripCalculatorSolution.sln, an ASP.NET Web Application.
-*Unit Tests are resides in and can be executed from TripCalculatorTest.csproj, an ASP.NET Unit Test Project.
-*The project is written using C#, ASP.NET, and HTML/CSS.
-*The user interface is responsive and can be used in any browser (IE/Firefox/Chrome).
-*HTML5 input fields are utilized for some validation.
+- The software solution resides in and can be launched from TripCalculatorSolution.sln, an ASP.NET Web Application.
+- Unit Tests are resides in and can be executed from TripCalculatorTest.csproj, an ASP.NET Unit Test Project.
+- The project is written using C#, ASP.NET, and HTML/CSS.
+- The user interface is responsive and can be used in any browser (IE/Firefox/Chrome).
+- HTML5 input fields are utilized for some validation.
 
 #### INSTRUCTIONS FOR USE
 1. Download all the source code from the Github repository that stores this solution.
