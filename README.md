@@ -1,4 +1,4 @@
-# TripCalculatorRepo
+# trip-calculator
 
 ## AUTHOR
 MICHAEL CHEUNG
